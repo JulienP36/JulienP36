@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/25aaf742-0894-4b2d-9ee5-b20ebbf66091/thumbnail" >
+</p>
 
 <!--
 **JulienP36/JulienP36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
