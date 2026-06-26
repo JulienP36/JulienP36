@@ -126,7 +126,7 @@ Cycle ingénierie logiciel
 
 ---
 
-### 🏫 EFREI – Villejuif (2017)
+### 🏫 EFREI – Villejuif (2016 - 2017)
 Première année cycle ingénierie  
 - Démineur en C  
 - Générateur de mots croisés en C  
