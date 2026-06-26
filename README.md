@@ -9,10 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7A5&center=true&vCenter=true&width=650&lines=Backend+Developer+%F0%9F%92%BB;C+%7C+Python+%7C+Java+%7C+Systems+%F0%9F%94%A7;Building+robust+and+clean+backend+systems+%F0%9F%9A%80" />
 </p>
 
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/25aaf742-0894-4b2d-9ee5-b20ebbf66091/thumbnail" />
-</p>
-
 ---
 
 ## 💡 Accroche
@@ -61,6 +57,10 @@
 ---
 
 ## 🧭 Boot.dev Progression Tracker
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/25aaf742-0894-4b2d-9ee5-b20ebbf66091/thumbnail" />
+</p>
 
 ### 🟢 Foundations
 - Python → logique, scripting, bases dev  
