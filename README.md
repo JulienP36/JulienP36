@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Julien Poitreau</h1>
+<h1 align="center">🖥️ Julien Poitreau 🥝:</h1>
 
 <p align="center">
   <b>Concepteur Développeur d’Applications Numériques</b><br/>
