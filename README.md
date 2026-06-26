@@ -15,6 +15,12 @@
 
 ---
 
+## 💡 Accroche
+
+> “Je ne suis pas ingénieur… mais je suis ingénieux !”
+
+---
+
 ## 🧠 À propos
 
 Développeur backend orienté robustesse, logique et compréhension système.  
@@ -24,73 +30,82 @@ Je privilégie les architectures simples, maintenables et fiables plutôt que la
 
 ## ⚡ Stack technique
 
-**Langages :** C, Python, Java, PHP, Bash  
-**Data / Web :** MySQL, HTML, CSS  
-**Outils :** Git, Jenkins, JMeter, VSCode, Eclipse  
-**Systèmes :** Linux (Ubuntu, Debian), Windows  
+- **Langages :** C, Python, Java, PHP, Bash  
+- **Data / Web :** MySQL, HTML, CSS  
+- **Outils :** Git, Jenkins, JMeter, VSCode, Eclipse  
+- **Systèmes :** Linux (Ubuntu, Debian), Windows  
 
 ---
 
 ## 📊 Boot.dev Progression Tracker
 
-![Progress](https://progress-bar.dev/85/?title=Boot.dev%20Backend%20Path)
+<p align="center">
+  <img src="https://progress-bar.dev/85/?title=Boot.dev%20Backend%20Path" />
+</p>
 
-Python Foundations          ██████████████ 100%  
-Programming Paradigms      ██████████████ 100%  
-Projects (Python)          ██████████████ 100%  
-Data Structures & Algorithms ██████████████ 100%  
-Systems (C / Memory)       ██████████████ 100%  
-Backend Core               ████████░░░░░░  ~in progress  
+<p>
+Python Foundations           ██████████████ 100%<br>
+Programming Paradigms       ██████████████ 100%<br>
+Projects (Python)           ██████████████ 100%<br>
+Data Structures & Algorithms ██████████████ 100%<br>
+Systems (C / Memory)        ██████████████ 100%<br>
+Backend Core                ████████░░░░░░  ~in progress
+</p>
 
 ---
 
 ## 🏅 Modules complétés (Boot.dev)
 
-- Learn to Code in Python  
-- Learn Linux  
-- Learn Git  
-- Object Oriented Programming (Python)  
-- Functional Programming (Python)  
-- Build a Bookbot  
-- Build Asteroids  
-- Build an AI Agent  
-- Build a Static Site Generator  
-- Data Structures & Algorithms (Python)  
-- Memory Management (C)  
+✨ Learn to Code in Python  
+✨ Learn Linux  
+✨ Learn Git  
+✨ Object Oriented Programming (Python)  
+✨ Functional Programming (Python)  
+✨ Build a Bookbot  
+✨ Build Asteroids  
+✨ Build an AI Agent  
+✨ Build a Static Site Generator  
+✨ Data Structures & Algorithms (Python)  
+✨ Memory Management (C)
 
 ---
 
 ## 💼 Expérience
 
-### X-FAB (2023 – 2024)
-Développeur SPC / FDC  
+### 🏭 X-FAB (2023 – 2024)
 - Systèmes de collecte de données industrielles  
 - Algorithmes en C  
-- Graphiques de contrôle et outils de production  
-- Environnement critique orienté fiabilité  
+- Graphiques de contrôle  
+- Environnement critique & fiabilité  
 
-### AXA Banque (2018 – 2020)
-Développeur  
+---
+
+### 🏦 AXA Banque (2018 – 2020)
 - Traitement de données techniques  
 - Algorithmes en C  
 - Systèmes de collecte et reporting  
 
-### Societe.com (2017)
-Développeur testeur en alternance  
+---
+
+### 🌐 Societe.com (2017)
 - Tests automatisés Java  
 - Monitoring (HTML / Python)  
-- Jenkins & JMeter (tests de charge)  
+- Jenkins & JMeter  
 - Migration PHP → C  
 
 ---
 
 ## 🎓 Formation
 
-IPI – Paris  
+### 🏫 IPI – Paris
 Architecte Développeur d’Applications Numériques  
-- Projets en C : Démineur, Puissance 4, mots croisés
+- Démineur (C)  
+- Puissance 4 (C)  
+- Générateur de mots croisés (C)
 
-EFREI – Villejuif  
+---
+
+### 🏫 EFREI – Villejuif
 Cycle ingénierie logiciel  
 - Hackathon Vente-Privée.com  
 
@@ -98,14 +113,14 @@ Cycle ingénierie logiciel
 
 ## 🌍 Langues
 
-- 🇫🇷 Français : langue maternelle  
-- 🇬🇧 Anglais : courant  
+🇫🇷 Français : langue maternelle  
+🇬🇧 Anglais : courant  
 
 ---
 
 ## 🎯 Centres d’intérêt
 
-Randonnée • Escalade • Dessin • Astronomie  
+🧭 Randonnée • 🧗 Escalade • 🎨 Dessin • 🔭 Astronomie  
 
 ---
 
@@ -115,7 +130,3 @@ Randonnée • Escalade • Dessin • Astronomie
 📍 Maurepas, France  
 
 ---
-
-## ⚙️ Philosophie
-
-> “Simplicity scales better than complexity.”
