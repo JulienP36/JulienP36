@@ -30,10 +30,43 @@ Je privilégie les architectures simples, maintenables et fiables plutôt que la
 
 ## ⚡ Stack technique
 
-- **Langages :** C, Python, Java, PHP, Bash  
-- **Data / Web :** MySQL, HTML, CSS  
-- **Outils :** Git, Jenkins, JMeter, VSCode, Eclipse  
-- **Systèmes :** Linux (Ubuntu, Debian), Windows  
+### 💻 Langages principaux
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</p>
+
+---
+
+### 🗄️ Data / Web
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+---
+
+### 🛠️ Outils & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+</p>
+
+---
+
+### 🖥️ Systèmes
+<p>
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/Linux-Debian-red?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows">
+</p>
 
 ---
 
