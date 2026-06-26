@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Julien Poitreau</h1>
 
 <p align="center">
-  <b>Architecte Développeur d’Applications Numériques</b><br/>
+  <b>Concepteur Développeur d’Applications Numériques</b><br/>
   Backend Developer • Systems • Logic • Reliability
 </p>
 
@@ -37,36 +37,86 @@ Je privilégie les architectures simples, maintenables et fiables plutôt que la
 
 ---
 
-## 📊 Boot.dev Progression Tracker
+## 🧭 Boot.dev Progression Tracker
 
-<p align="center">
-  <img src="https://progress-bar.dev/85/?title=Boot.dev%20Backend%20Path" />
-</p>
+### 🟢 Foundations
+- Learn to Code in Python → ✔ bases syntaxe et logique
+- Learn Linux → ✔ terminal, permissions, navigation
+- Learn Git → ✔ versioning, workflow
 
-<p>
-Python Foundations           ██████████████ 100%<br>
-Programming Paradigms       ██████████████ 100%<br>
-Projects (Python)           ██████████████ 100%<br>
-Data Structures & Algorithms ██████████████ 100%<br>
-Systems (C / Memory)        ██████████████ 100%<br>
-Backend Core                ████████░░░░░░  ~in progress
-</p>
+### 🟡 Python Core
+- Object Oriented Programming → ✔ classes et design
+- Functional Programming → ✔ map, filter, immutabilité
+
+### 🟠 Projects
+- Bookbot → ✔ parsing de texte
+- Asteroids → ✔ logique de jeu
+- AI Agent → ✔ automatisation et logique
+- Static Site Generator → ✔ génération de contenu
+
+### 🔴 Computer Science
+- Data Structures & Algorithms → ✔ structures et complexité
+- Memory Management (C) → ✔ stack, heap, mémoire
 
 ---
 
-## 🏅 Modules complétés (Boot.dev)
+## 📌 Featured Projects (GitHub Showcase)
 
-✨ Learn to Code in Python  
-✨ Learn Linux  
-✨ Learn Git  
-✨ Object Oriented Programming (Python)  
-✨ Functional Programming (Python)  
-✨ Build a Bookbot  
-✨ Build Asteroids  
-✨ Build an AI Agent  
-✨ Build a Static Site Generator  
-✨ Data Structures & Algorithms (Python)  
-✨ Memory Management (C)
+### 🧠 AI Agent (Python)
+> Agent intelligent capable d’exécuter des tâches logiques
+
+- Automatisation de tâches
+- Logique de décision
+- Architecture backend Python
+
+---
+
+### 🧱 Static Site Generator
+> Générateur de sites statiques à partir de contenu structuré
+
+- Parsing de contenu
+- Génération HTML
+- Pipeline de build simple
+
+---
+
+### 🚀 Asteroids Game
+> Jeu arcade avec logique temps réel
+
+- Gestion des collisions
+- Boucle de jeu
+- Architecture orientée objet
+
+---
+
+### 📊 Bookbot
+> Analyse automatique de texte
+
+- Parsing de fichiers
+- Statistiques de texte
+- Génération de rapports
+
+---
+
+### 🔍 Memory Management (C)
+> Exploration bas niveau de la mémoire
+
+- Stack vs Heap
+- Allocation dynamique
+- Compréhension système
+
+---
+
+## 🏅 Compétences acquises (Boot.dev)
+
+✨ Python scripting & fundamentals  
+✨ Linux CLI & environnement système  
+✨ Git workflow complet  
+✨ Object-Oriented Programming  
+✨ Functional programming concepts  
+✨ Data Structures & Algorithms  
+✨ Memory management (C low-level concepts)  
+✨ Construction de projets complets  
 
 ---
 
@@ -75,15 +125,14 @@ Backend Core                ████████░░░░░░  ~in prog
 ### 🏭 X-FAB (2023 – 2024)
 - Systèmes de collecte de données industrielles  
 - Algorithmes en C  
-- Graphiques de contrôle  
-- Environnement critique & fiabilité  
+- Environnements critiques  
 
 ---
 
 ### 🏦 AXA Banque (2018 – 2020)
 - Traitement de données techniques  
-- Algorithmes en C  
-- Systèmes de collecte et reporting  
+- Développement en C  
+- Systèmes de reporting  
 
 ---
 
@@ -97,15 +146,15 @@ Backend Core                ████████░░░░░░  ~in prog
 
 ## 🎓 Formation
 
-### 🏫 IPI – Paris
+IPI – Paris  
 Architecte Développeur d’Applications Numériques  
 - Démineur (C)  
 - Puissance 4 (C)  
-- Générateur de mots croisés (C)
+- Générateur de mots croisés (C)  
 
 ---
 
-### 🏫 EFREI – Villejuif
+EFREI – Villejuif  
 Cycle ingénierie logiciel  
 - Hackathon Vente-Privée.com  
 
