@@ -96,53 +96,6 @@ Je privilégie les architectures simples, maintenables et fiables plutôt que la
 
 ---
 
-## 📌 Featured Projects (GitHub Showcase)
-
-### 🧠 AI Agent (Python)
-> Agent intelligent capable d’exécuter des tâches logiques
-
-- Automatisation de tâches
-- Logique de décision
-- Architecture backend Python
-
----
-
-### 🧱 Static Site Generator
-> Générateur de sites statiques à partir de contenu structuré
-
-- Parsing de contenu
-- Génération HTML
-- Pipeline de build simple
-
----
-
-### 🚀 Asteroids Game
-> Jeu arcade avec logique temps réel
-
-- Gestion des collisions
-- Boucle de jeu
-- Architecture orientée objet
-
----
-
-### 📊 Bookbot
-> Analyse automatique de texte
-
-- Parsing de fichiers
-- Statistiques de texte
-- Génération de rapports
-
----
-
-### 🔍 Memory Management (C)
-> Exploration bas niveau de la mémoire
-
-- Stack vs Heap
-- Allocation dynamique
-- Compréhension système
-
----
-
 ## 🏅 Compétences acquises (Boot.dev)
 
 ✨ Python scripting & fundamentals  
