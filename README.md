@@ -14,8 +14,11 @@
 </p>
 
 ---
+
 ## 💡 Accroche
+
 > “Je ne suis pas ingénieur… mais je suis ingénieux.”
+
 ---
 
 ## ⚡ Stack technique
@@ -133,15 +136,23 @@ Première année cycle ingénierie
 ### 🎓 Baccalauréat S SVT (2016)
 - Puissance 4 en langage C  
 
+
 ---
+
 ## 🌍 Langues
-🇫🇷 Français : langue maternelle  
-🇬🇧 Anglais : courant  
+
+🇫🇷 Français langue maternelle • 🇬🇧 Anglais courant  
+
 ---
+
 ## 🎯 Centres d’intérêt
+
 🧭 Randonnée • 🧗 Escalade • 🎨 Dessin • 🔭 Astronomie  
+
 ---
+
 ## 📫 Contact
-📧 poitreau.j@gmail.com  
-📍 France  
+
+📧 poitreau.j@gmail.com • 📍 France  
+
 ---
