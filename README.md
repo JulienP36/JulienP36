@@ -136,7 +136,6 @@ Première année cycle ingénierie
 ### 🎓 Baccalauréat S SVT (2016)
 - Puissance 4 en langage C  
 
-
 ---
 
 ## 🌍 Langues
